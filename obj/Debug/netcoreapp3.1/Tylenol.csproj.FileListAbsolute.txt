@@ -1,0 +1,13 @@
+C:\Users\Stvn\Desktop\repos\Tylenol\bin\Debug\netcoreapp3.1\Tylenol.exe
+C:\Users\Stvn\Desktop\repos\Tylenol\bin\Debug\netcoreapp3.1\Tylenol.deps.json
+C:\Users\Stvn\Desktop\repos\Tylenol\bin\Debug\netcoreapp3.1\Tylenol.runtimeconfig.json
+C:\Users\Stvn\Desktop\repos\Tylenol\bin\Debug\netcoreapp3.1\Tylenol.runtimeconfig.dev.json
+C:\Users\Stvn\Desktop\repos\Tylenol\bin\Debug\netcoreapp3.1\Tylenol.dll
+C:\Users\Stvn\Desktop\repos\Tylenol\bin\Debug\netcoreapp3.1\Tylenol.pdb
+C:\Users\Stvn\Desktop\repos\Tylenol\obj\Debug\netcoreapp3.1\Tylenol.csprojAssemblyReference.cache
+C:\Users\Stvn\Desktop\repos\Tylenol\obj\Debug\netcoreapp3.1\Tylenol.AssemblyInfoInputs.cache
+C:\Users\Stvn\Desktop\repos\Tylenol\obj\Debug\netcoreapp3.1\Tylenol.AssemblyInfo.cs
+C:\Users\Stvn\Desktop\repos\Tylenol\obj\Debug\netcoreapp3.1\Tylenol.csproj.CoreCompileInputs.cache
+C:\Users\Stvn\Desktop\repos\Tylenol\obj\Debug\netcoreapp3.1\Tylenol.dll
+C:\Users\Stvn\Desktop\repos\Tylenol\obj\Debug\netcoreapp3.1\Tylenol.pdb
+C:\Users\Stvn\Desktop\repos\Tylenol\obj\Debug\netcoreapp3.1\Tylenol.genruntimeconfig.cache
